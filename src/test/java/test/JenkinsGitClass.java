@@ -29,6 +29,8 @@ public class JenkinsGitClass {
 		
 		System.out.println("run me atomaticly please.............");
 		
+		System.out.println("run me atomaticly please222222.............");
+		
 		System.out.println("Parent WIndow ID: " + parentWindow);
  
 
