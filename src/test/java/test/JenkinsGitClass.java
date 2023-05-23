@@ -27,6 +27,8 @@ public class JenkinsGitClass {
 		
 		String parentWindow = driver.getWindowHandle();
 		
+		System.out.println("run me atomaticly please.............");
+		
 		System.out.println("Parent WIndow ID: " + parentWindow);
  
 
